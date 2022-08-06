@@ -3,7 +3,7 @@
 ##### quick start:
 
 1. clone repository
-2. ```cd uni-meta/tsp```
+2. ```cd tsp-solver/tsp```
 3. ```meson setup --buildtype release build``` -- to configure build
 4. ```ninja -C build``` -- to compile
 
